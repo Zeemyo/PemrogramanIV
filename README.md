@@ -1,2 +1,3 @@
 # PemrogramanIV
-Isinya praktikum doang coy
+Isinya praktikum
+
